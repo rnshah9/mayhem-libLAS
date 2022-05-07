@@ -1,0 +1,5 @@
+project: mayhem-liblas
+target: lasinfo
+
+cmds:
+  - cmd: /usr/local/bin/lasinfo @@
