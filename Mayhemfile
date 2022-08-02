@@ -2,4 +2,4 @@ project: liblas
 target: lasinfo
 
 cmds:
-  - cmd: /usr/local/bin/lasinfo @@
+  - cmd: /install/bin/lasinfo @@
